@@ -44,7 +44,7 @@
         <zkclient.version>0.1</zkclient.version>
         <curator.version>2.5.0</curator.version>
         <!-- 低于此版本存在 【CVE-2020-26217 XStream远程代码执行漏洞】 -->
-        <xstream.version>1.4.14</xstream.version>
+        <xstream.version>1.4.17</xstream.version>
 
         <maven.skip>true</maven.skip>
         <maven-jar-plugin.version>3.1.1</maven-jar-plugin.version>
